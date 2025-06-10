@@ -2,7 +2,7 @@ build:
   version: "v1"
 
 accounts:
-  message: "accounts related prod APIs "
+  message: "accounts related production APIs"
   contactDetails:
     name: "aravind - Product Owner"
     email: "{cipher}11ab079daac9abf9ce56efaa9194cafd7a6bc9c5dfea31b203cabe86b9a1ad422146d9efb8901c27f67fc55b0b553097"
