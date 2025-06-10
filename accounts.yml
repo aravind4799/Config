@@ -2,7 +2,7 @@ build:
   version: "v3"
 
 accounts:
-  message: "Welcome accounts related  APIs "
+  message: "Welcome accounts docker-v1-webhooks related  APIs "
   contactDetails:
     name: "John Deer - Developer"
     email: "john@deer.com"
